@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
         myWebView = (WebView) findViewById(R.id.webView);
         myWebView.getSettings().setJavaScriptEnabled(true);
-        myWebView.loadUrl("http://aniruddha-mistry.com/aau/mobiletech/assign11/clicktips/index.html");
+        myWebView.loadUrl("http://aniruddha-mistry.com/aau/mobiletech/assign11/scrollstack/index.html");
 
 
     }
